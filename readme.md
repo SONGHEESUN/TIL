@@ -1,6 +1,6 @@
-<h1> 🌱TIL (Today I Learned) </h1>
+# 🌱TIL (Today I Learned)
 
-<h1> git </h1>
+## git
 
-
-
+	1.  [CLI 사용하기](./startcamp/CLI.md)
+2. [마크다운사용](startcamp/마크다운.md)
